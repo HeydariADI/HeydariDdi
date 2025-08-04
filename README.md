@@ -1,6 +1,6 @@
 # سلام! من ADI 👋
 
-### React Developer | Frontend Enthusiast
+### React Developer | Frontend 
 
 ---
 
