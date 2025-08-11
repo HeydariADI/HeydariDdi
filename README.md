@@ -1,17 +1,13 @@
-# سلام! من ADI 👋
+ **Hello! I'm ADI 👋**
 
 ### React Developer | Frontend 
 
 ---
 
-🌟 عاشق توسعه اپلیکیشن‌های واکنش‌گرا با **React** و **Next.js** هستم  
-🎨 به طراحی زیبا و کاربردی با **Tailwind CSS** اهمیت میدم  
-⚙️ تجربه کار با مدیریت حالت با **Redux** دارم  
-🚀 همیشه دنبال یادگیری تکنولوژی‌های جدید و بهبود کدها هستم
-🌟 Passionate about building responsive applications with React and Next.js
-🎨 Care deeply about creating beautiful and functional designs using Tailwind CSS
+💻 Passionate about building responsive, high-quality web applications with React and Next.js
+🎨 Love creating beautiful, user-friendly designs using Tailwind CSS
 ⚙️ Experienced in state management with Redux
-🚀 Always eager to learn new technologies and improve code quality
+🚀 Always learning new technologies and improving code quality
 
 ------------------------------------------------
 - **React.js** (Hooks, Context, Router)  
