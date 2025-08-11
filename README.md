@@ -7,12 +7,13 @@
 🌟 عاشق توسعه اپلیکیشن‌های واکنش‌گرا با **React** و **Next.js** هستم  
 🎨 به طراحی زیبا و کاربردی با **Tailwind CSS** اهمیت میدم  
 ⚙️ تجربه کار با مدیریت حالت با **Redux** دارم  
-🚀 همیشه دنبال یادگیری تکنولوژی‌های جدید و بهبود کدها هستم  
+🚀 همیشه دنبال یادگیری تکنولوژی‌های جدید و بهبود کدها هستم
+🌟 Passionate about building responsive applications with React and Next.js
+🎨 Care deeply about creating beautiful and functional designs using Tailwind CSS
+⚙️ Experienced in state management with Redux
+🚀 Always eager to learn new technologies and improve code quality
 
----
-
-## مهارت‌ها
-
+------------------------------------------------
 - **React.js** (Hooks, Context, Router)  
 - **Next.js** (App Router, SSR, SSG)  
 - **Tailwind CSS**  
