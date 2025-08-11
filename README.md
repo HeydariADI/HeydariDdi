@@ -10,11 +10,10 @@
 🚀 Always learning new technologies and improving code quality
 
 ------------------------------------------------
-- **React.js** (Hooks, Context, Router)  
-- **Next.js** (App Router, SSR, SSG)  
-- **Tailwind CSS**  
-- **Redux Toolkit**  
-- JavaScript (ES6+)  
-- CSS Modules, SCSS  
-- Git & GitHub  
-- TanStack Query (React Query)  
+- **React.js** (Hooks, Context, Router)  - **Next.js** (App Router, SSR, SSG) - **Tailwind CSS**  
+- **Redux Toolkit** 
+- **JavaScript** (ES6+)
+-  **TanStack Query (React Query)**   
+- **CSS Modules, SCSS** 
+- **Git & GitHub**  
+
